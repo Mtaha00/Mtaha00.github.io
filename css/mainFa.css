@@ -2533,7 +2533,9 @@ footer .copyright span:last-child::after {
 		display: none;
 	}
 }
-
+body,span,div,h1,h2,h3,h4,h5,button,a,li,ul,strong{
+	letter-spacing: 0px !important;
+}
 /**
  * go to top - (_layout.scss)
  * ------------------------------------------------------------------- 
